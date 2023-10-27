@@ -2,7 +2,7 @@
 
 Welcome to the Coffee Recipes Index, where you can find a variety of delightful coffee recipes to try. Click on the links below to discover your next favorite brew:
 
-- [Classic Espresso](classic-espresso.me)
+- [Classic Espresso](classic-espresso.md)
 - [Kalita Wave 185](kalita-wave-185.md)
 
 
